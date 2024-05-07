@@ -12,6 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    overflow: hidden;
 }
 .main{
     width:300px; 
@@ -52,3 +53,11 @@ h2{
       padding: 5px;
     }
   } */
+
+
+        /* RESET ALLL ELEMENTS */
+    /* * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    } */
